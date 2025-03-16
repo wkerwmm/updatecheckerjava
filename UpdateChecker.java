@@ -50,7 +50,7 @@ import java.util.function.BiConsumer;
  * updateChecker.checkForUpdate();
  * }</pre>
  * 
- * @author YourName
+ * @author wkerwmm
  * @version 1.0
  */
 @Slf4j
