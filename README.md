@@ -14,7 +14,7 @@ UpdateChecker is a lightweight and reusable utility that checks whether a newer 
 3. Implement the update check in your code.
 
 ## WARNINGS FROM THE DEVELOPER
-- Friends, I wanted to share it with you because I use this structure even in my own plugins. It is a very easy-to-use system.
+- friends i wantd to share it with you because i use this structure even in my own plgns it is a very easytouse system
 - Arkadaşlar kendi eklentilerimde bile bu sistemi kullandığım için sözlerle paylaşmak istedim, çok rahat ve asenkron çalışmaktadır.
 
 ## Usage
