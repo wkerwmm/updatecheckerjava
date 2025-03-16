@@ -13,6 +13,10 @@ UpdateChecker is a lightweight and reusable utility that checks whether a newer 
 2. Ensure you have `OkHttp` library in your dependencies.
 3. Implement the update check in your code.
 
+## WARNINGS FROM THE DEVELOPER
+- Friends, I wanted to share it with you because I use this structure even in my own plugins. It is a very easy-to-use system.
+- Arkadaşlar kendi eklentilerimde bile bu sistemi kullandığım için sözlerle paylaşmak istedim, çok rahat ve asenkron çalışmaktadır.
+
 ## Usage
 ```java
 UpdateChecker updateChecker = new UpdateChecker(
