@@ -15,7 +15,6 @@ UpdateChecker is a lightweight and reusable utility that checks whether a newer 
 
 ## WARNINGS FROM THE DEVELOPER
 - friends i wantd to share it with you because i use this structure even in my own plgns it is a very easytouse system
-- Arkadaşlar kendi eklentilerimde bile bu sistemi kullandığım için sözlerle paylaşmak istedim, çok rahat ve asenkron çalışmaktadır.
 
 ## Usage
 ```java
